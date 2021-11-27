@@ -1,0 +1,26 @@
+.wrapper {
+    background-color: #ece4db;
+    height: 100vh;
+  }
+  
+  .heading {
+    color: gray;
+  }
+  
+  .heading_wrapper{
+      
+      margin-bottom: 10px;
+  }
+  
+  .para {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .para {
+      padding-left: 20px;
+      padding-right: 20px;
+      text-align: start;
+    }
+  }

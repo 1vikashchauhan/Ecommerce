@@ -1,0 +1,24 @@
+.add {
+    border-radius: 2px solid black;
+}
+
+.cart_wrapper {
+    background-color: sandybrown;
+}
+
+.cart_wrapper:hover{
+    background-color: #E3F2FD;
+}
+
+.common_wrapper:hover{
+    border-bottom: 2px solid #E3F2FD;
+    transition: 0.8s;
+}
+
+@media only screen and (max-width: 600px) {
+    .cart_wrapper{
+      background-color: transparent;
+      border: none;
+    }
+  }
+

@@ -1,0 +1,10 @@
+.no_product{
+    height: 10px;
+}
+
+.product{
+    height: 150px;
+}
+body{
+    background-color: #ece4db;
+}

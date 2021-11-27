@@ -1,0 +1,24 @@
+.increase{
+    font-size: 28px;
+}
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  
+  .block_input{
+        width:80px !important;
+  }
+} 
+
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+  
+
+  .block_input{
+        width:160px !important;
+  }
+} 
+body{
+  background-color: #ece4db;
+}

@@ -1,0 +1,16 @@
+.ratings{
+    color: rgb(251,130,0);
+}
+
+@media only screen and (min-width: 992px){
+    .magnifier{
+        transition: transform .3s; 
+    }
+    
+    .magnifier:hover{
+        transform: scale(1.1); 
+    }
+}
+body{
+    background-color: #ece4db;
+}
